@@ -1,0 +1,1 @@
+console.log('今天周一')
